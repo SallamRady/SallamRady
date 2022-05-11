@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sallam Rady</h1>
-<h3 align="center">Interested in Full Stack Web Development [React js/Node.js] and Looking forward to the Blockchain</h3>
+<h3 align="center">Interested in Full Stack Web Development [React js/Node.js] and Looking forward to Learning Blockchain</h3>
 
 <p align="center"> 
      <img src="https://komarev.com/ghpvc/?username=SallamRady&label=Profile%20views&color=0e75b6&style=flat" alt="SallamRady" />
