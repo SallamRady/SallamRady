@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sallam Rady</h1>
-<h3 align="center">Interested in Full Stack Web Development [React js/Node.js] and Looking forward to Learning Blockchain</h3>
+<h3 align="center">Full Full Stack Web Developer [React js/Node.js] and Interested in Blockchain</h3>
 
 <p align="center"> 
      <img src="https://komarev.com/ghpvc/?username=SallamRady&label=Profile%20views&color=0e75b6&style=flat" alt="SallamRady" />
@@ -10,7 +10,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
 - :school: I am a `Senior` at Faculty of Computers & Information at Assuit University
-- 🌱 I’m currently learning `Exopress js`
+- 🌱 I’m currently learning `Express js`
 - 📫 How to reach me **sallamradygmail.com**
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1bUb7j_gM4Cr_UeFtuiKl_2HQ7zC5u5v9/view?usp=sharing).
 - :nerd_face: Always `learning new things`
