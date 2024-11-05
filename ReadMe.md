@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sallam Rady</h1>
-<h3 align="center">Full Full Stack Web Developer [React js/Node.js] and Interested in Blockchain</h3>
+<h3 align="center">
+Front-end Developer (React/Next) | 
+MERN stack developer with an interest in Blockchain
+</h3>
 
 <p align="center"> 
      <img src="https://komarev.com/ghpvc/?username=SallamRady&label=Profile%20views&color=0e75b6&style=flat" alt="SallamRady" />
@@ -9,16 +12,17 @@
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
-- :school: I am a `Senior` at Faculty of Computers & Information at Assuit University
-- 🌱 I’m currently learning `Express js`
+- :school: Graduated From `Computer Science` Assuit University With GPA `3.6` of 4 , `fourth` ranking on my class
+- 🌱 I’m currently learning `Micro Front-end Architecture`
 - 📫 How to reach me **sallamradygmail.com**
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1bUb7j_gM4Cr_UeFtuiKl_2HQ7zC5u5v9/view?usp=sharing).
+- :thinking: I’m currently open for:`job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1bUb7j_gM4Cr_UeFtuiKl_2HQ7zC5u5v9/view?usp=sharing).
 - :nerd_face: Always `learning new things`
-- 🐼 Doing my best 
+- 🐼 Doing my best
 
 <br>
 
 ## 📩 Connect with me
+
 <p align="center">
     <a href="mailto:sallamrady@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
 <a href="https://www.facebook.com/profile.php?id=100027602181452" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
